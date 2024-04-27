@@ -1,6 +1,5 @@
 <?php
 	include "controllers/connect.php";
-	print_r($conn);
 ?>
 
 
